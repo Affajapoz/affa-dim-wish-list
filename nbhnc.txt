@@ -2,4 +2,4 @@ title:This is a compiled collection of god/recommended rolls from Affa.
 description:Enjoy.
 
 // Hawkmoon
-//notes:Affa (PvP / Controller): "For PvP I really value Rangefinder. It would give it the competitive edge over guns like Thorn or Ace and increase Hawkmoon’s already stellar consistency. If you don’t like the increased Zoom then something like Snapshot Sights really makes Hawkmoon feel snappy. You also can’t go wrong with Eye of the Storm, Opening Shot, or Killing Wind."|tags:pvp,controller
+//notes:Affa (PvP / Controller): "meow"|tags:pvp,controller
